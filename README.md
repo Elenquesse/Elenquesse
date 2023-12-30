@@ -17,7 +17,7 @@ $$
 \mathcal{E}(z) = \sqrt{\Omega_\mathcal R (1+z)^4 +\Omega_\mathcal M (1+z)^3+\Omega_\text{❤}}
 $$
 
-+ 👨‍🎓 PhD student at HKU from 2023 Autumn
++ 👨‍🎓 PhD student at at [Smart Mobility Lab](https://www.civil.hku.hk/kejintao) of HKU from 2023 Autumn
 + 💻 C++ / Gurobi / Python / PyTorch
 + 🔭 Optimisation problems in traffic and transportation engineering
 + 🎤 中文 / English / λίγα ελληνικά / ~~Quenya~~
