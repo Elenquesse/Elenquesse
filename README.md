@@ -7,7 +7,7 @@ We must know. We shall know.</b>
 
 <p align="center">
 <a href="https://github.com/Ecthelion-F">GitHub</a> &nbsp;•&nbsp; 
-<a href="mailto:shihz@connect.hku.hk"> E-Mail</a> &nbsp;•&nbsp;
+<a href="mailto:i@elen.moe"> E-Mail</a> &nbsp;•&nbsp;
 <a href="https://scholar.google.com.hk/citations?user=J4G6F4oAAAAJ"> Google Scholar </a>
 </p>
 
