@@ -24,4 +24,4 @@ $$
 + 🔭 Optimization problems in traffic and transportation engineering
 + 🎤 中文 / English / λίγα ελληνικά / ~~Quenya~~
 
-<a href="https://github.com/Elenquesse"><img width="47%" src="https://github-readme-stats.vercel.app/api?username=Elenquesse&show_icons=true&count_private=true&hide_title=true&theme=vue&hide_border=true&include_all_commits=true&disable_animations=true"><img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elenquesse&hide_border=true&theme=default&layout=compact&card_width=495&hide=Jupyter+Notebook"><br></a>
+<a href="https://github.com/Elenquesse"><img width="47%" src="https://github-stats-extended.vercel.app/api?username=Elenquesse&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=buefy"><img width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Elenquesse&layout=compact&hide_title=true&langs_count=4&theme=buefy&hide=Jupyter+Notebook"><br></a>
